@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Nikhil Mukesh Saoji 👋
 
-<!--
-**fourth-idiot/fourth-idiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A first year Master of Science in Computer Science student at the University of Florida.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a full stack web application (Ira : The E-learning Platform) [Link](https://github.com/fourth-idiot/ira).
+- 🌱 I’m currently learning Database System Implementation, Mobile Computing, and Software Engineering.
+- 🤔 I’m looking for software developement internship roles in summer 2022.
+- 😄 Pronouns: He/Him.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+Reach me on nm.saoji@gmail.com / +13528883826
+
+[linkedin]: https://www.linkedin.com/in/nikhil-saoji/
