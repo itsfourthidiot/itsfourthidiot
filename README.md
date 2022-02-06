@@ -5,7 +5,7 @@ A first year Master of Science in Computer Science student at the University of 
 - 🔭 I’m currently working on a developing full stack web application (Ira : The e-learning platform). I'm responsible to build backend in Golang. [Link](https://github.com/fourth-idiot/ira).
 - 🌱 I’m currently learning Database System Implementation, Mobile Computing, and Software Engineering.
 - 🤔 I’m looking for software developement internship roles in summer 2022.
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He/Him/His.
 
 ### Contact Me
 Reach me on nm.saoji@gmail.com / +13528883826
